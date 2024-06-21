@@ -9,3 +9,7 @@ let a = undefined;
 let b = ' ';
 let c = !b;
 ```
+
+### Homework Finished 22/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
