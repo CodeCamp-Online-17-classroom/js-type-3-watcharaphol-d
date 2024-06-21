@@ -7,7 +7,7 @@ let d = Boolean(a); // The result is: False
 let e = Boolean(b); // The result is: True
 let f = Boolean(c); // The result is: False
 
-console.log(`The value of 'd' is: ${d}, \nThe value of 'e' is: ${e}, \nThe value of 'f' is: ${f}`)
+console.log(`The value of 'd' is: ${d}, \nThe value of 'e' is: ${e}, \nThe value of 'f' is: ${f}`);
 
 //=============== Explanation ===============
 // - ผลลัพทธ์ของตัวแปร d เป็น Boolean ค่า False เพราะการแปลงค่า undefined ให้เป็น boolean จะให้ผลลัพธ์เป็น false
